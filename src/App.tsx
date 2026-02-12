@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import Hero from './Common/Hero.tsx'
 
 function App() {
